@@ -6,30 +6,148 @@
     ],
     "hk_thumbs": 
     [   
-        {
-            "url":"https://raw.githubusercontent.com/11020156/topnews/master/images/IMG_0429.JPG",
-            "desc":"Stanley"
-        },
-        {
-            "url":"https://raw.githubusercontent.com/11020156/topnews/master/images/IMG_0430.JPG",
-            "desc":"Stanley"
-        },
-        {
-            "url":"https://raw.githubusercontent.com/11020156/topnews/master/images/IMG_0432.JPG",
-            "desc":"Stanley"
-        },
-        {
-            "url":"https://raw.githubusercontent.com/11020156/topnews/master/images/IMG_0433.JPG",
-            "desc":"Stanley"
-        },
-        {
-            "url":"https://raw.githubusercontent.com/11020156/topnews/master/images/IMG_0434.JPG",
-            "desc":"Stanley"
-        },
-        {
-            "url":"https://raw.githubusercontent.com/11020156/topnews/master/images/IMG_0435.JPG",
-            "desc":"Stanley"
-        }
+        
+    {
+      "desc": "Travel Guide to Hong Kong",
+      "url": "http://paradiseintheworld.com/wp-content/uploads/2012/01/hong-kong-city.jpg"
+    },
+    {
+      "desc": "Hong Kong, China - Tourist Destinations",
+      "url": "http://3.bp.blogspot.com/-5vy9h8hJFao/TgyqLRCs1TI/AAAAAAAACI8/_UPb0XMg3cI/s1600/Hong_Kong_China_09.jpg"
+    },
+    {
+      "desc": "File:Hong Kong Island Skyline 201108.jpg - Wikipedia",
+      "url": "http://upload.wikimedia.org/wikipedia/commons/a/a4/Hong_Kong_Island_Skyline_201108.jpg"
+    },
+    {
+      "desc": "Hong Kong | Nice View in Photos 2012 | Travel And Tourism",
+      "url": "http://4.bp.blogspot.com/-pXOjj_3xSGQ/TzDwCrg6jcI/AAAAAAAAFaU/61yCF64Bjow/s1600/Hong-Kong-02.jpg"
+    },
+    {
+      "desc": "Hong Kong – Where East Meets West | 011now's blog",
+      "url": "https://011now.files.wordpress.com/2014/09/1-hong-kong.jpg"
+    },
+    {
+      "desc": "CIA World Factbook Photos, 7: Hong Kong, Macau, Philippines, South Korea, Japan « Public Domain Images Online",
+      "url": "https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/hk/images/large/HK_002_large.jpg"
+    },
+    {
+      "desc": "Hong Kong Wallpapers | Best Wallpapers",
+      "url": "http://s1.picswalls.com/wallpapers/2014/08/08/hong-kong-picture_020428803_160.jpg"
+    },
+    {
+      "desc": "Hong Kong View Wallpapers | Best Wallpapers",
+      "url": "http://s1.picswalls.com/wallpapers/2014/08/08/awesome-hong-kong-view-wallpaper_020440103_161.jpg"
+    },
+    {
+      "desc": "Large Hong Kong City Maps for Free Download and Print | High-Resolution and Detailed Maps",
+      "url": "http://www.orangesmile.com/common/img_city_maps/hong-kong-map-0.jpg"
+    },
+    {
+      "desc": "hong kong wallpaper ~ Make My Trip Advisor",
+      "url": "http://3.bp.blogspot.com/-GCLIxIxVayA/Td9Uiik1TfI/AAAAAAAABMw/627Yl8wjduQ/s1600/hong_kong_lights-5720.jpg"
+    },
+    {
+      "desc": "Hong Kong - Region Profile - Nations Online Project",
+      "url": "http://www.nationsonline.org/gallery/Hong-Kong/Hongkong-panorama-at-night.jpg"
+    },
+    {
+      "desc": "Hong Kong Picture And Images",
+      "url": "http://openwalls.com/image/15588/hong_kong_at_night_1920x1080.jpg"
+    },
+    {
+      "desc": "hong kong wallpaper ~ Make My Trip Advisor",
+      "url": "http://4.bp.blogspot.com/-vC6uFSDqTkY/Td9UlUsYysI/AAAAAAAABM0/zJn3-f3zwX0/s1600/hongkong1280.jpg"
+    },
+    {
+      "desc": "Research in Industrial Projects for Students (RIPS)-Hong Kong 2015",
+      "url": "http://www.ipam.ucla.edu/wp-content/uploads/2014/04/Hong-Kong.jpg"
+    },
+    {
+      "desc": "Hong Kong Wallpapers | Best Wallpapers",
+      "url": "http://s1.picswalls.com/wallpapers/2014/08/08/hong-kong-photo_020428673_160.jpg"
+    },
+    {
+      "desc": "Fotos de Hong Kong, Porto",
+      "url": "http://www.guiageo-china.com/imagens/hong-kong-g.jpg"
+    },
+    {
+      "desc": "HongKong | /home/GNU/Linux/Ramix",
+      "url": "https://renemages.files.wordpress.com/2015/10/hong-kong.jpg"
+    },
+    {
+      "desc": "Hong Kong | Arts et Voyages",
+      "url": "http://magic.wizards.com/sites/mtg/files/images/featured/GP_HongKong.jpg"
+    },
+    {
+      "desc": "Large Hong Kong City Maps for Free Download and Print | High-Resolution and Detailed Maps",
+      "url": "http://www.orangesmile.com/common/img_city_maps/hong-kong-map-2.jpg"
+    },
+    {
+      "desc": "Hong Kong Maps, Attractions Map, Lantau Island Map, Subway Map",
+      "url": "http://www.beijingholiday.com/assets/images/new-bjh/hongkong/map/5hong-kong-subway.jpg"
+    },
+    {
+      "desc": "301 Moved Permanently",
+      "url": "http://giftedphoenix.files.wordpress.com/2011/10/map-of-hong-kong.jpg"
+    },
+    {
+      "desc": "Large Hong Kong City Maps for Free Download and Print | High-Resolution and Detailed Maps",
+      "url": "http://www.orangesmile.com/common/img_city_maps/hong-kong-map-3.jpg"
+    },
+    {
+      "desc": "Hong Kong Hotels with Indoor Swimming Pool | OrangeSmile.com",
+      "url": "http://www.orangesmile.com/common/img_final_large/hong-kong_sightseeing.jpg"
+    },
+    {
+      "desc": "Different views of the Big 3 – Hong Kong, New York, Chicago « Skyline Blog",
+      "url": "https://superjchung.files.wordpress.com/2013/01/hong-kong.jpg"
+    },
+    {
+      "desc": "ADStur AGÊNCIA DE VIAGENS E TURISMO: Hong Kong",
+      "url": "http://2.bp.blogspot.com/_O2wRzDfSJRI/SxQJewVo7yI/AAAAAAAACYc/sCxg633JCQM/s1600/hong-kong-dayjpg1.jpg"
+    },
+    {
+      "desc": "How to recruit in Hong Kong - Jobboard Finder News",
+      "url": "https://www.jobboardfinder.com/news/wp-content/uploads/2017/10/HongKongday_JobboardFinder.jpg"
+    },
+    {
+      "desc": "Hong kong | Arts et Voyages",
+      "url": "http://static.asiawebdirect.com/m/phuket/portals/hong-kong-hotels-ws/homepage/top10/top10-hotels/pagePropertiesImage/top10-hotels-hongkong.jpg"
+    },
+    {
+      "desc": "Destination Guides, Cheap Flights | HK Express",
+      "url": "http://www.hkexpress.com/sites/default/files/hong-kong%20bg%20image_2.jpg"
+    },
+    {
+      "desc": "Impact Value Exchange | Comparative International Perspectives on Knowledge Exchange and Arts & Humanities Research",
+      "url": "https://impactvalueexchange.files.wordpress.com/2013/11/hong-kong.jpg"
+    },
+    {
+      "desc": "Hong Kong | White & Case LLP International Law Firm, Global Law Practice",
+      "url": "https://www.whitecase.com/sites/whitecase/files/images/locations/HongKong_Tablet_1920x960.jpg"
+    },
+    {
+      "desc": "Hong Kong and China Map Printable | Hong Kong MTR Map, Subway, Metro, Tube",
+      "url": "http://3.bp.blogspot.com/-DhqBBfHa8yA/Uc4uGBEFukI/AAAAAAAAAHw/ZKaYtras2TU/s1600/map-of-Hong-Kong-china.jpg"
+    },
+    {
+      "desc": "Image Gallery hong kong skyline",
+      "url": "https://www.timeshighereducation.com/sites/default/files/hong_kong_skyline.jpg"
+    },
+    {
+      "desc": "What is there to see and do in Hong Kong? | One Step 4Ward",
+      "url": "http://onestep4ward.com/wp-content/uploads/2011/05/HongKongAtNightHg.jpg"
+    },
+    {
+      "desc": "Kowloon Hong Kong",
+      "url": "http://paradiseintheworld.com/wp-content/uploads/2012/05/Kowloon.jpg"
+    },
+    {
+      "desc": "Google Images",
+      "url": "http://upload.wikimedia.org/wikipedia/commons/e/ec/Hongkong_Evening_Skyline.jpg"
+    }
+
     ]
 
 }
